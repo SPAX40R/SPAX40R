@@ -5,7 +5,7 @@ The SPAX40R Ledger (SPAX) is a decentralized, public blockchain led by a global 
 Proven reliable over more than a decade of error-free functioning, the SPAX40R offers streamlined development, low transaction costs, high performance, and sustainability. So you can build with confidence–and move your most critical projects forward.
 
 ## Take full control. Run your own node.
-Become fully sovereign while helping secure the network. Become part of the XRP network.
+Become fully sovereign while helping secure the network. Become part of the SPAX network.
 
 ## Getting started
 Visit our main page at [**Visit SPAX40B**](https:/SPAX40R.com) to begin.
