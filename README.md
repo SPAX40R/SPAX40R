@@ -8,7 +8,7 @@ Proven reliable over more than a decade of error-free functioning, the SPAX40R o
 Become fully sovereign while helping secure the network. Become part of the SPAX network.
 
 ## Getting started
-Visit our main page at [**Visit SPAX40B**](https:/SPAX40R.com) to begin.
+Visit our main page at [**Visit SPAX40R**](https://SPAX40R.com) to begin.
 
 
 # Community
